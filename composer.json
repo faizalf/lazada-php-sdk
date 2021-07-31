@@ -1,5 +1,5 @@
 {
-    "name": "paulwscom/lazada-php-sdk",
+    "name": "faizalf/lazada-php-sdk",
     "description": "A Lazada PHP SDK for Laravel",
     "keywords": [
         "lazada",
@@ -17,11 +17,11 @@
     ],
     "require": {
         "php": "^7.2",
-        "laravel/framework": "^6.0"
+        "laravel/framework": "^7.0"
     },
     "autoload": {
         "psr-4": {
-            "Paulwscom\\Lazada\\": "src"
+            "Faizalf\\Lazada\\": "src"
         }
     }
 }
